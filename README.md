@@ -1,2 +1,1 @@
-# test
-buat tes tes aja
+NAMA : TRI
